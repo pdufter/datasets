@@ -169,7 +169,7 @@ This dataset contains data in 53 languages:
 af,ar,az,be,bg,bn,ca,ceb,cs,cy,da,de,el,en,es,et,eu,fa,fi,fr,ga,gl,he,hi,hr,hu,hy,id,it,ja,ka,ko,la,lt,lv,ms,nl,pl,pt,ro,ru,sk,sl,sq,sr,sv,ta,th,tr,uk,ur,vi,zh
 
 ## Dataset Structure
-For each language and each relation there is a set of triples.
+For each of the 53 languages and each of the 43 relations/predicates there is a set of triples.
 
 ### Data Instances
 
@@ -197,7 +197,7 @@ There is only one partition that is labelled as 'test data'.
 
 ### Curation Rationale
 
-The dataset was translated into 53 languages in order to be able to investigate knowledge in pretrained language models
+The dataset was translated into 53 languages to investigate knowledge in pretrained language models
 multilingually.
 
 ### Source Data
